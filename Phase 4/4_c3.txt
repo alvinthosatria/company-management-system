@@ -1,0 +1,8 @@
+startNewDay|01-Jan-2022
+
+hire|Bob|30
+hire|John|30
+hire|May|20
+hire|Ann|20
+
+takeLeave|Bob|AL|28-Feb-2024|1-Mar-2024
